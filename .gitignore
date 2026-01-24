@@ -1,0 +1,19 @@
+# 忽略编译生成的文件夹
+build/
+release/
+debug/
+
+# 忽略 Qt Creator 产生的临时文件
+*.pro.user
+.qtcreator/
+*.user
+
+# 忽略 VS 和 Windows 的垃圾
+*.obj
+*.exe
+*.pdb
+*.ilk
+.vs/
+*.tlog
+.DS_Store
+Thumbs.db
