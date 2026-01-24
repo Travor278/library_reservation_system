@@ -1,3 +1,4 @@
+[English Version](./README_EN.md) | [中文文档](./README.md)
 # Library Seat Reservation System v3.0
 
 ## 1. System Overview
