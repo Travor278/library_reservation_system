@@ -1,3 +1,4 @@
+[English Version](./README_EN.md) | [中文文档](./README.md)
 # 图书馆座位预约系统 (Library Seat Reservation System) v3.0
 
 ## 1. 系统概述 (System Overview)
