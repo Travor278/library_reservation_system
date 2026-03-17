@@ -1,6 +1,14 @@
 [English Version](./README_EN.md) | [中文文档](./README.md)
 # 图书馆座位预约系统 (Library Seat Reservation System) v3.0
 
+<table>
+  <tr>
+    <td width="33%"><img src="docs/校区首页.png" alt="校区首页" width="100%" /></td>
+    <td width="33%"><img src="docs/楼层平面图.png" alt="楼层平面图" width="100%" /></td>
+    <td width="33%"><img src="docs/座位地图视图.png" alt="座位地图视图" width="100%" /></td>
+  </tr>
+</table>
+
 ## 1. 系统概述 (System Overview)
 本系统是一个基于 Qt/C++ 框架开发的图书馆座位预约管理系统，采用 MVC 架构模式设计。系统模拟了真实图书馆的座位分区查询、预约、签到/暂离/签退状态管理以及信用分系统。
 
@@ -30,3 +38,43 @@
 
 ## 5. 文档 (Documentation)
 更详细的设计细节、架构说明及使用手册，请查看 [docs/图书馆座位预约系统_软件使用说明.pdf](docs/图书馆座位预约系统_软件使用说明.pdf)。
+
+## 6. 界面预览 (Screenshots)
+
+### 登录与注册
+
+![登录与注册界面](docs/登陆注册界面.png)
+
+### 温馨提示
+
+![温馨提示](docs/温馨提示.png)
+
+### 校区与楼层选择
+
+![校区首页](docs/校区首页.png)
+
+### 楼层平面图
+
+![楼层平面图](docs/楼层平面图.png)
+
+### 座位详情视图
+
+![座位地图视图](docs/座位地图视图.png)
+
+### 数据统计与导出
+
+![统计数据及导出](docs/统计数据及导出1.png)
+
+## 7. 系统设计 (System Design)
+
+### 业务流程图
+
+![流程图](docs/流程图.png)
+
+### 数据流图
+
+![数据流图](docs/数据流图.png)
+
+### 系统类图
+
+![系统类图](docs/系统类图.png)
